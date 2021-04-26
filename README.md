@@ -18,3 +18,7 @@ I'm self studying Software Development And Electronics.
 * Game Development
 
 [![Rijad's stats](https://github-readme-stats.vercel.app/api/wakatime?username=rijadTahiri)](https://github.com/anuraghazra/github-readme-stats)
+
+### Where to find me?
+
+(https://twitter.com/redportal_games "Twitter")
