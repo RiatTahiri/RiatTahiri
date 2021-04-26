@@ -1,4 +1,4 @@
-### Hi, I'm Rijad 
+### Hi, I'm Rijad 🚀
 
 Welcome to my Github profile.
 
