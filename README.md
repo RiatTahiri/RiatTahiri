@@ -21,4 +21,4 @@ I'm self studying Software Development And Electronics.
 
 ### Where to find me?
 
-(https://twitter.com/redportal_games "Twitter")
+<a href='https://twitter.com/redportal_games'>Twitter</a>
