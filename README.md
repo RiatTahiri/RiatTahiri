@@ -1,6 +1,6 @@
 ### Hi, I'm Rijad 
 
-Welcome to my github profile.
+Welcome to my Github profile.
 
 I'm so passionate about technology in general, i just love to think outside the box and solve problems.
 
