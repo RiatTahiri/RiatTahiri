@@ -21,7 +21,7 @@ I'm self studying Software Development And Electronics.
 
 ### Where to find me? ✔️
 
-- Twitter [<img align="left" alt="Rijad Tahiri | Twitter" width="25px" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+- Twitter [<img align="left" alt="Rijad Tahiri | Twitter" width="25px" style='background-color: red' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 - Website [<img align="left" alt="https://riattahiri.github.io/portofolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [twitter]: https://twitter.com/redportal_games
