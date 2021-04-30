@@ -25,8 +25,6 @@ I'm self studying Software Development And Electronics.
 <br />
 <br />
 
-[![Rijad's stats](https://github-readme-stats.vercel.app/api/wakatime?username=rijadTahiri)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Where to find me? ✔️
 
 * Twitter[<img align="left" alt="Rijad Tahiri | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
