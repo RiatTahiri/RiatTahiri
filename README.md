@@ -16,11 +16,13 @@ I'm self studying Software Development And Electronics.
 - **Image & Video Processing**
 - **Computer Graphics**
 - **Game Development**
+- **I really wanna get in some really low level stuff, like how the processor, ram, graphics work etc.
 
 ### Things i want to build in the near future
 
   - An emulator for some sort of system.
   - A computer vision project to detect blurred frames in a video.
+  - Emulate a microprocessor.
 
 ### Tools that i use
 
