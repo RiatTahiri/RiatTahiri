@@ -19,8 +19,8 @@ I'm self studying Software Development And Electronics.
 
 ### Things i want to build in the near future
 
-  - ** An emulator for some sort of system.
-  - ** A computer vision project to detect blurred frames in a video.
+  - **An emulator for some sort of system.
+  - **A computer vision project to detect blurred frames in a video.
 
 ### Tools that i use
 
