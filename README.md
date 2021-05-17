@@ -16,7 +16,7 @@ I'm self studying Software Development And Electronics.
 - **Image & Video Processing**
 - **Computer Graphics**
 - **Game Development**
-- **I really wanna get in some really low level stuff, like how the processor, ram, graphics work etc.
+- I really wanna get in some really low level stuff, like how the processor, ram, graphics work etc.
 
 ### Things i want to build in the near future
 
