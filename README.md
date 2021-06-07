@@ -26,7 +26,7 @@ I'm self studying Software Development And Electronics.
 
 ### Currently Working
   
-  - -> Video Editor
+  -> Video Editor
 
 ### Tools that i use
 
