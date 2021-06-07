@@ -24,9 +24,10 @@ I'm self studying Software Development And Electronics.
   - A computer vision project to detect blurred frames in a video.
   - Emulate a microprocessor.
 
-### Currently Working
+### Projects i'm currently working on?
   
   -> Video Editor
+  -> Web App
 
 ### Tools that i use
 
