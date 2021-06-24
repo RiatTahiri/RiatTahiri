@@ -6,7 +6,7 @@ I'm so passionate about technology in general, i just love to think outside the 
 
 ### What am i currently studying? 💻
 
-I'm self studying Software Development And Electronics.
+Software Development And Electronics.
 
 ### Future things i want to teach myself?
 
