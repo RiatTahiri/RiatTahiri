@@ -26,7 +26,7 @@ Software Development And Electronics.
 
 ### Projects i'm currently working on?
   
-  -> Video Editor<br />
+  -> Video Editor using C++<br />
   -> Web App
 
 ### Tools that i use
