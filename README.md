@@ -16,7 +16,7 @@ Software Development And Electronics.
 - **Image & Video Processing**
 - **Computer Graphics**
 - **Game Development**
-- get tok know some really low level stuff, like how the processor, ram, graphics work etc.
+- get to know some really low level stuff, like how the processor, ram, graphics work etc.
 
 ### Things i want to build in the near future
 
