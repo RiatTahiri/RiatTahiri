@@ -4,10 +4,6 @@ Welcome to my Github profile.
 
 I'm so passionate about technology in general, i just love to think outside the box and solve problems.
 
-### What am i currently studying? 💻
-
-Software Development And Electronics.
-
 ### Future things i want to teach myself?
 
 - **Machine Learning & Computer Vision**
