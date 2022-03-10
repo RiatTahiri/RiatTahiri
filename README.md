@@ -2,8 +2,6 @@
 
 Welcome to my Github profile.
 
-I'm so passionate about technology in general, i just love to think outside the box and solve problems.
-
 ### Future things i want to teach myself?
 
 - **Machine Learning & Computer Vision**
@@ -12,7 +10,6 @@ I'm so passionate about technology in general, i just love to think outside the 
 - **Image & Video Processing**
 - **Computer Graphics**
 - **Game Development**
-- get to know some really low level stuff, like how the processor, ram, graphics work etc.
 
 ### Things i want to build in the near future
 
@@ -36,7 +33,7 @@ I'm so passionate about technology in general, i just love to think outside the 
 ### Where to find me? ✔️
 
 * Twitter[<img align="left" alt="Rijad Tahiri | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-* Website[<img align="left" alt="https://riattahiri.github.io/portofolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+* Website[<img align="left" alt="https://riattahiri.github.io/portofolio/" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [twitter]: https://twitter.com/redportal_games
 [website]: https://riattahiri.github.io/portofolio/
