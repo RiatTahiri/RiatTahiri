@@ -2,26 +2,6 @@
 
 Welcome to my Github profile.
 
-### Future things i want to teach myself?
-
-- **Machine Learning & Computer Vision**
-- **Computer Security**
-- **Mobile Development**
-- **Image & Video Processing**
-- **Computer Graphics**
-- **Game Development**
-
-### Things i want to build in the near future
-
-  - An emulator for some sort of system.
-  - A computer vision project to detect blurred frames in a video.
-  - Emulate a microprocessor.
-
-### Projects i'm currently working on?
-  
-  -> Video Editor using C++<br />
-  -> Web App
-
 ### Tools that i use
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
