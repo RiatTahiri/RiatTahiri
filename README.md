@@ -9,10 +9,3 @@ Welcome to my Github profile.
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
-
-### Where to find me? ✔️
-
-* Website[<img align="left" alt="https://riattahiri.github.io/portofolio/" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[twitter]: https://twitter.com/redportal_games
-[website]: https://riattahiri.github.io/portofolio/
